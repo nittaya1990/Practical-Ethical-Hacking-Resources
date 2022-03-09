@@ -42,14 +42,12 @@ VirtualBox: https://www.virtualbox.org/wiki/Downloads
 
 Kali Download: https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
 
-Shared Drive: https://drive.google.com/open?id=1pIh9t_e6CyjaaZgtA_K1okZkcHhrXncX
-
 Official Offensive Security kali 2019.3 release: https://cdimage.kali.org/kali-2019.3/
 
 Other Offical kali 2019 Releases: https://cdimage.kali.org/
 
 ### Mid-Course Capstone
-New Capstone boxes: https://drive.google.com/drive/folders/1G3869JJ7KmK-5ddr6w1GbwnNZ3agtnP1
+New Capstone boxes: https://drive.google.com/drive/folders/1VXEuyySgzsSo-MYmyCareTnJ5rAeVKeH
 
 Old Capstone boxes: https://youtu.be/JZN3JhoAdWo
 
@@ -132,6 +130,9 @@ sumrecon: https://github.com/thatonetester/sumrecon
  Sample Pentest Report: https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
   
  ## Tools
+ #### Pimpmykali
+ * Github: https://github.com/Dewalt-arch/pimpmykali
+ 
  #### Hunter.io
  * Site: https://hunter.io/
  
